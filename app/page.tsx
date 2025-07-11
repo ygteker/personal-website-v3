@@ -95,7 +95,7 @@ export default function Home() {
           <ProjectCard
             title="Personal Portfolio"
             description="A clean personal site built with Next.js and ShadCN."
-            link="https://gunesteker.com"
+            link="https://github.com/ygteker/personal-website-v3"
           />
           <ProjectCard
             title="Fog Computing Prototype"
@@ -117,8 +117,10 @@ export default function Home() {
 
       <Section id="contact" title="contact">
         <p>
-          Reach out via <a href="mailto:gunes.teker@gmail.com" className="underline">email</a> or follow me on{" "}
+          Reach out via <a href="mailto:gunes.teker@gmail.com" className="underline">email</a>, follow me on{" "}
           <a href="https://github.com/ygteker" className="underline">GitHub</a>.
+          or connect on {" "}
+          <a href="https://www.linkedin.com/in/gunesteker/" className="underline">LinkedIn</a>
         </p>
       </Section>
 
