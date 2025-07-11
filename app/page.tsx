@@ -12,7 +12,7 @@ export default function Home() {
             gunes teker
           </h1>
           <p className="mt-4 text-muted-foreground text-sm md:text-base">
-            creative developer & designer
+            software developer
           </p>
         </div>
       </main>

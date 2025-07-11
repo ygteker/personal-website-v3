@@ -1,3 +1,5 @@
+import { ThemeToggle } from "./theme-toggle";
+
 export function SiteHeader() {
   return (
     <header className="fixed top-0 left-0 w-full px-6 py-4 flex justify-between items-center z-50">
@@ -12,6 +14,7 @@ export function SiteHeader() {
         <a href="#contact" className="text-muted-foreground hover:text-foreground transition-colors">
           contact
         </a>
+        <ThemeToggle />
       </nav>
     </header>
   );
