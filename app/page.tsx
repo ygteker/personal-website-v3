@@ -61,11 +61,11 @@ export default function Home() {
           <div>
             <h3 className="text-base font-medium text-foreground">Education</h3>
             <ul className="text-sm space-y-1">
+              {/* <li> */}
+              {/*   <strong>MSc Computer Science</strong> — TU Berlin (2022–ongoing) */}
+              {/* </li> */}
               <li>
-                <strong>MSc Computer Science</strong> — TU Berlin (2022–ongoing)
-              </li>
-              <li>
-                <strong>BSc Computer Science & Statistics</strong> — LMU Munich (2016–2021)
+                <strong>Computer Science & Statistics</strong> — LMU Munich (2016–2021)
                 <br />
                 Thesis: Pre-clustering for statistical relational data analysis using the example of the coronavirus epidemic
               </li>
