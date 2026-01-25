@@ -120,3 +120,11 @@
     @apply bg-background text-foreground;
   }
 }
+
+.prose p {
+  margin-bottom: 1.25em;
+}
+
+.prose p:last-child {
+  margin-bottom: 0;
+}
